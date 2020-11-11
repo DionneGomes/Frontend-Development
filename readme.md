@@ -73,12 +73,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** Responsive
 
-**Je opdracht:** Project internetstandaarden: website appartement in oosterijk genaamd A Casa Elements.
+**Je opdracht:** Gopro: https://gopro.com/en/nl/ 
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/screenshot1.png" width="375px" alt="Screenshot bovenkant homepage A Casa Elements website">
+<img src="images/screenshot1.png" width="375px" alt="Screenshot bovenkant homepage Gopro">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/screenshot2.png" width="375px" alt="Screenshot onderkant homepage A Casa Elements website">
+<img src="images/screenshot2.png" width="375px" alt="Screenshot bovenkant overview pagina camera's Gopro">
