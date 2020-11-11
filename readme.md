@@ -77,8 +77,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/screenshot1.png" width="375px" alt="Screenshot bovenkant homepage Gopro">
+<img src="images/screenshotgopro1.png" width="375px" alt="Screenshot bovenkant homepage Gopro">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/screenshot2.png" width="375px" alt="Screenshot bovenkant overview pagina camera's Gopro">
+<img src="images/screenshotgopro2.png" width="375px" alt="Screenshot bovenkant overview pagina camera's Gopro">
