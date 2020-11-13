@@ -62,7 +62,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Breakdownschets (week 1)
 
-<img src="images/breakdownschets.png" width="375px" alt="Breakdownschets homepage Gopro Mobile">
+<img src="images/Breakdownschets.png" width="375px" alt="Breakdownschets homepage Gopro Mobile">
 
 
 ## Intake (week 1)
