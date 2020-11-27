@@ -58,9 +58,7 @@ Op deze afbeelding zie je de GoPro website tot in hoevere in hem nu gemaakt hebt
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
-
-
+Er is nog een hele boel waar ik aan kan werken, verbeteren en netter maken. Het is verstandig om zo veel mogelijk “class” weg te halen en dat te veranderen in een selectie van een “child” in een “parent” bijvoorbeeld.  De H1 in de “main” en in de “footer” moeten veranderd worden in een H2. Het wordt me aangeraden om alle alle “position: absolute” weg te halen en daarna pas te kijken waar dat nodig is. Door al deze “positions” gaat de website raar doen dus pas dat alleen toe waar nodig. Het is nu ook toegepast op onderdelen als de “p”,”ul”.”H1”, ect. en dat is niet nodig. Verder als er geen “position: absolute” is toegepast kan ik de “top”, “bottom”, “left” en “right” weg halen want die werken toch net zonder een “positions”. Als laatste is het overzichtelijker als ik de “font-size: calc…” verander in “..em”. Dus ik voorlopig wel even zoet. 
 
 ## Breakdownschets (week 1)
 
