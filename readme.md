@@ -38,11 +38,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Des te langer ik bezig was aan mijn website des te meer ik begreep wat ik moest doen. Ook werd ik er g gemotiveerd als iets gelukt was en het er wel mooi uit zag. 
+Wat ik wel nog lastig vind ik het gebruiken van “position” en “flexbox” samen. Ik begrijp hoe ik een pagina kan opmaken met “flexbox” alleen als ik dan ook nog dingetjes ga proberen met “position” veranderd alles weer. Hierdoor ontstond af en toe verwarring. 
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+<img src="images/Screenshot-procces-GoPro-website.png" width="375px" alt="Mobiele GoPro website, tot waar ik nu gekomen ben">
+Op deze afbeelding zie je de GoPro website tot in hoevere in hem nu gemaakt hebt. Hij is nog niet af! Ik ga de header nog aanpassen en wil ook mijn code iets netter schrijven als dat ik nu gedaan heb. 
 
 ### Agenda voor meeting
 
