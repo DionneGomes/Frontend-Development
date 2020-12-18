@@ -30,7 +30,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
+
+Doordat ik heel veel CSS getypt heb ben ik even het overzicht een beetje kwijt. Ik heb zoals vermeld in de feedback van vorige week de positions allemaal weggehaald en ben aan uittesten gegaan waar de positions echt nodig zijn. Hierdoor ik de website wel een beetje een gaos maar het werkt wel beter. Ook heb iuk geprobeerd zo veel mogelijk class’es weg te halen. 
+
+### Verslag van meeting
 
 
 
