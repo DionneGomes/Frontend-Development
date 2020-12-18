@@ -24,8 +24,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+### Stand van zaken
 
+Ik ben veel bezig geweest met weghalen van class’es. Ook heb ik van de afbeeldingen een achtergrond afbeelding gemaakt. Hiermee ben ik een beetje aan het spelen geweest omdat de opmaak van de tekst hierdoor helemaal veranderd is dus dit moet ik nog af maken. 
+
+### Verslag van meeting
 
 
 ## Voortgang 2 (week 5)
@@ -36,7 +39,7 @@ Doordat ik heel veel CSS getypt heb ben ik even het overzicht een beetje kwijt. 
 
 ### Verslag van meeting
 
-
+Ik had een paar vragen als: Hoe selecteer ik alle “childs” min een section? En Waarom werkt bij mij de :nth-of-type niet?. Hierop heb ik goede antwoorden gekregen waarmee ik verder kan. Ook kreeg Juul de handige Tip die voor mijzelf ook wel handig is. Wanneer je de border rood maakt kan je goed zien of alle elementen gelijk zijn uitgelijnd. Dit vond ik ook wel een handige om te noteren.  Verder kreeg ik als feedback dat ik toch de afbeeldingen als achtergrond moest doen zodat het positioneren van de tekst even makkelijker gaat en je minder position nodig hebt. Dus daar ga ik mee aan de slag. Ook werd er geadviseerd om nog meet class’es weg te halen.
 
 ## Voortgang 1 (week 3)
 
