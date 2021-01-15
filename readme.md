@@ -7,18 +7,17 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Bronnenlijst
 1. <a href="https://www.notion.so/Productbiografie-Frontend-Development-9f9509a9917848f89d446d59aca006ab">Productbiografie Notion</a>
-2. -bron 2-
-3. -...-
-
-
+2. <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">CSS tricks flexbox guide</a>
+3. <a href="https://css-tricks.com/snippets/css/complete-guide-grid/">CSS tricks grid guide</a>
+4. <a href="https://gopro.com/en/nl/">Website GoPro</a>
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+Des te langer ik met HTML en CSS aan het werk ben geweest des te beter ik alles begreep. Doordat ik veel aan het uitproberen was en dingen ging opzoeken kwam ik uiteindelijk tot een goede oplossing. Ondanks dat het soms redelijk frustrerend kon zijn als iets niet werkte zoals ik wilde. Dit maakte het alleen maar een groter feest als ik wel de juiste oplossing gevonden had. Ik had wat probleempjes met de positionering van de content maar door de goede feedback en de lessen kwam ik steeds dichter bij de juiste oplossing. Ik ben blij met mijn mobiele versie alleen de tablet, laptop en desktop versie zou ik graag nog verder willen verbeteren. Hiervoor heb ik helaas geen tijd gehad. Toch weet ik wel hoe ik het verder zou willen gaan aanpakken. Met media queries en grid zou ik nog wel langer kunnen door spelen. 
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+<img src="images/pagina-video" width="375px" alt="Pagina camera's Gopro">
 
 
 
@@ -30,6 +29,7 @@ Ik ben veel bezig geweest met weghalen van class’es. Ook heb ik van de afbeeld
 
 ### Verslag van meeting
 
+Uit dit laatste feedback gesprek bleek dat ik een aantal dingen kon veranderen. Ik heb een span gebruikt om de tekst bovenaan dik gedrukt te maken. Dit kan ik beter doen met een strong. De tweede pagina heb ik de naam Camera’s gegeven. Het is beter om komma’s in namen te vermijden. Ik word ook geadviseerd om minder sections te maken. De footer bestaat namelijk uit veel sections. De px waardes die ik heb genoteerd kan ik beter vervangen door em. En als laatste is het er belangrijk dat ik meer ga kaderen. Dat ik verschillende items met een komma ga koppelen als zij dezelfde styling hebben. 
 
 ## Voortgang 2 (week 5)
 
