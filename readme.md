@@ -17,9 +17,11 @@ Des te langer ik met HTML en CSS aan het werk ben geweest des te beter ik alles 
 
 **Screenshot(s):**
 
-<img src="images/pagina-video" width="375px" alt="Pagina camera's Gopro">
-
-
+<img src="images/GoPro pagina mobiel 1.png" width="375px" alt="Mobiele GoPro website">
+<img src="images/GoPro pagina mobiel 2.png" width="375px" alt="Mobiele GoPro website">
+<img src="images/GoPro pagina mobiel 3.png" width="375px" alt="Mobiele GoPro website">
+<img src="images/GoPro pagina mobiel 4.png" width="375px" alt="Mobiele GoPro website">
+<img src="images/GoPro pagina desktop/tablet.png" width="375px" alt="Desktop/Tablet GoPro website">
 
 ## Voortgang 3 (week 6)
 
