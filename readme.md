@@ -10,6 +10,19 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 2. <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">CSS tricks flexbox guide</a>
 3. <a href="https://css-tricks.com/snippets/css/complete-guide-grid/">CSS tricks grid guide</a>
 4. <a href="https://gopro.com/en/nl/">Website GoPro</a>
+5. <a href="https://www.w3schools.com/html/default.asp">Veel verschillende tutorials van HTML op deze website</a>
+6. <a href="https://www.w3schools.com/css/default.asp">Veel verschillende tutorials van CSS op deze website</a>
+7. <a href="https://dlo.mijnhva.nl/d2l/home/268182">Voor JavaScript heb ik veel gebruikt uit de lessen van mijn herkansing Inleiding Programmeren, zie DLO</a>
+8. <a href="https://www.youtube.com/watch?v=RNakAX3rVVw">YouTube video over CSS font en text properties</a>
+9. <a href="https://css-tricks.com/typography-for-developers/">Artikel over fonts op het web</a>
+10. <a href="https://css-tricks.com/almanac/">Artikel over CSS selectoren en properties</a>
+11. <a href="https://contrast-ratio.com/">Website contrast ratio checker</a>
+12. <a href="https://www.youtube.com/watch?v=jx5jmI0UlXU">YouTube video over CSS Position in 9 min. (YouTube)</a>
+13. <a href="https://flexbox.io/">Video's over Flexbox: What the Flexbox</a>
+14. <a href="Hey designers, if you only know one thing about JavaScript, this is what I would recommend (CSS-tricks)">Video/artikel over JavaScript: Hey designers, if you only know one thing about JavaScript, this is what I would recommend</a>
+15. <a href="https://www.youtube.com/watch?v=br-0i3U1VCA&feature=youtu.be">YouTube video over Grid: Making Modern Layouts with CSS Grid | Grid Basics</a>
+16. <a href="https://www.youtube.com/watch?v=2KL-z9A56SQ&feature=youtu.be">YouTube video over Media Queries: Learn how to use CSS Media Queries in less than 5 minutes</a>
+17. <a href="https://www.youtube.com/watch?v=HZHHBwzmJLk&feature=youtu.be">YouTube video over Animaties: CSS Animation in 100 Seconds</a>
 
 ## Eindgesprek (week 7/8)
 
